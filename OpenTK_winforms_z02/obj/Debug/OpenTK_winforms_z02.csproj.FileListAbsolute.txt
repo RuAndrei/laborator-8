@@ -1,0 +1,44 @@
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe.config
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.pdb
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csprojResolveAssemblyReference.cache
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Properties.Resources.resources
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.GenerateResource.Cache
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.exe
+C:\Users\epoc3\Desktop\OpenGL-OpenTK-EGC\EGC\NEW Labs\EGC_labs\09\OpenTK_lab05_1\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.pdb
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe.config
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.pdb
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.dll
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.xml
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csprojAssemblyReference.cache
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Properties.Resources.resources
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.GenerateResource.cache
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.CopyComplete
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.exe
+C:\Users\Cosmin\Desktop\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.pdb
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe.config
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.exe
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK_winforms_z02.pdb
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.dll
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.xml
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csprojAssemblyReference.cache
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.Properties.Resources.resources
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.GenerateResource.cache
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.csproj.CopyComplete
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.exe
+C:\Users\Cosmin\Desktop\FIESC - an 3\SEM 1\EGC\Laborator 07\OpenTK_lab_09\OpenTK_winforms_z02\obj\Debug\OpenTK_winforms_z02.pdb
